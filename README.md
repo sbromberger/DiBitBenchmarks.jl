@@ -1,4 +1,4 @@
-benchmark testing for DiBitGraphs
+benchmark testing for [DiBitVectors](https://github.com/sbromberger/DiBitVectors.jl)
 
 ![get random indices](img/get_bench.png "get random indices")
 
